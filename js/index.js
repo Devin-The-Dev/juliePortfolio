@@ -1,5 +1,4 @@
 // Mobile Menu
-//https://www.w3schools.com/howto/howto_js_mobile_navbar.asp
 
 var menuBtn = document.getElementsByClassName('menu-btn');
 var mobileMenu = document.getElementsByClassName('mobile-menu');
